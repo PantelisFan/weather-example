@@ -4,11 +4,13 @@ Utilizing `hbs` as the default view engine.
 
 
 ## How to run
-After you have ran `npm i` at least once you can run:
-- $`node app.js` to run the server in normal mode,
+After you have ran `npm i` at least once you can either:
+- $`node app.js` to run the server in normal mode
+- $`npm run start` to run again the server in normal mode
 
 
 ### TODO list:
+- [ ] Add testing
 - [ ]  Modify landing page
 - [ ] Add final comments
 - [x] Implement the geocode service
